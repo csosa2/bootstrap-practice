@@ -61,24 +61,26 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3">
-							<img src="">
+							<img src="images/blank-profile.png" alt="blank-profile"/>
 						</div>
 						<div class="col-md-9">
-							content panel
+							<p>TEXT</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-3">
-							column one
+							<img src="images/happy-cat-one.jpg" alt="Happy Cat One"/>
+							<p>text</p>
 						</div>
 						<div class="col-md-3">
-							column two
+							<img src="images/happy-cat-two.jpg" alt="Happy Cat Two"/>
+
 						</div>
 						<div class="col-md-3">
-							column 3
+							<img src="images/happy-image-three.jpg" alt="Happy Cat Three">
 						</div>
 						<div class="col-md-3">
-							column 4
+							<img src="images/drunk-kitty-four.jpeg" alt="Drunk Kitty Four"/>
 						</div>
 					</div>
 				</div>
